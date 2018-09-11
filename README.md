@@ -9,7 +9,7 @@
 <p>Fogyni lehet testmozgással és diétázással is.</p>
 <p>A testmozgással gyorsabban lehet fogyni de nagyobb erőbefektetés kell hozzá mint a diétázáshoz.</p>
 <p>A diétézáshoz pedig nagyobb akaraterő kell hogy egyes ételek csábításának ellen tudj álni.</p>
-<p></p>
+<p>És lehet a testmozgást meg a diétázást együtt csinálni és annak van a legnagyobb hatása és az egyik legyorsabb <b>természetes</b> fogyási lehetőség</p>
 <p><h3>Testmozgás</h3></p>
 <p><h3>Diétázás</h3></p>
 
