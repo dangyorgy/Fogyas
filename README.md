@@ -6,9 +6,9 @@
 </head>
 <body>
 
-<h1>Gyakorlatok</h1>
-<p>Testmozgás</p>
-<p>Diétázás</p>
+<h2>Gyakorlatok</h2>
+<p><h3>Testmozgás</h3></p>
+<p><h3>Diétázás</h3></p>
 
 </body>
 </html>
