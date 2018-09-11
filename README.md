@@ -1,1 +1,1 @@
-# Fogyás gyorsan egyszerűen 
+ Fogyás gyorsan egyszerűen 
